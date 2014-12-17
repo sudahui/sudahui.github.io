@@ -1,0 +1,16 @@
+auto:	          true
+
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+permalink:        /:title
+
+title:            Suhui.com
+url:              http://suhui.github.io
+author:
+    name:         Suhui
+description:      "Suhui\'s Blog"
+author_info:      <a href="http://suhui.github.io/about">Suhui</a>
+
+copyright:
+    - Design by <a href="http://suhui.github.io/about" title="Suhui" target="_blank">Suhui</a> &copy; 2014
