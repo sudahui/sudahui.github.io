@@ -2,6 +2,7 @@
 layout: page
 ---
 <link rel="stylesheet" href="/js/prettify/prettify.css" />
+<link rel="stylesheet" href="http://cdn.bootcss.com/highlight.js/8.4/styles/github.min.css" />
 <div class="entry">
 
     <h1><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
@@ -138,3 +139,10 @@ layout: page
         $.getScript('/js/prettify/prettify.js',function(){prettyPrint()});
     });
 </script>
+
+//新的代码高亮尝试
+<script>
+hljs.configure({tabReplace: '    '});
+hljs.initHighlightingOnLoad();
+</script>
+
