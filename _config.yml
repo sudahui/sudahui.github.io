@@ -6,7 +6,7 @@ scholar_id: IaliaJ0AAAAJ
 description: > # this symbol means ignore newlines until "baseurl:"
     Hi! I'm Hui and here you will find what I do.
 baseurl: "" # keep blank unless you're using sub-paths
-url: "http://suhui.github.io" # the base hostname & protocol for your site
+url: "http://sudahui.github.io" # the base hostname & protocol for your site
 #paginate: 3
 
 
