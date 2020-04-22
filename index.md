@@ -3,14 +3,15 @@ layout: default
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
-![who_i_am_](./img/people/huisu.jpg){: style="float: right; margin: 0px 20px; width: 204px; height: 240px" name="fox"}
+![who_i_am_](./img/people/huisu.jpg){: style="float: right; margin: 0px 20px; width: 204px; height: 176px" name="fox"}
 
 
 
 Now, I'm an algorithm researcher at [WeChat AI](https://ai.weixin.qq.com/), Tencent. 
 
 Prior to joining Tencent, I recieved my master’s degree from the CAS Key Lab of Parallel Software and Scientific Computing Laboratory in Institute of Software , Chinese Academy of Sciences under the supervision of Prof. Shuzi NIU in July 2018. 
-Before that, I received my bachelor’s degree in Software Engineering and bachelor’s degree in Geosciences from China University of Geosciences, Wuhan in 2015.
+
+Before that, I received my bachelor’s degree in Software Engineering and bachelor’s degree in Geoscience from China University of Geosciences, Wuhan in 2015.
 
 
 
