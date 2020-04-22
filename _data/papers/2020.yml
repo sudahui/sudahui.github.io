@@ -6,7 +6,7 @@
   year: 2020
   img: ddg-min.png
   title: "Diversifying Dialogue Generation with Non-Conversational Text"
-  authors: "Hui Su, Xiaoyu Shen, Sanqiang Zhao, Zhou Xiao, Pengwei Hu, randy zhong, Cheng Niu and Jie Zhou"
+  authors: "<u>Hui Su<u>, Xiaoyu Shen, Sanqiang Zhao, Zhou Xiao, Pengwei Hu, randy zhong, Cheng Niu and Jie Zhou"
   doc-url:
   conf: acl20.png
   url: ""
@@ -18,7 +18,7 @@
   year: 2020
   img: seg-min.png
   title: "Neural Data-to-Text Generation via Jointly Learning the Segmentationand Correspondence"
-  authors: "Xiaoyu Shen, Ernie Chang, Hui Su, Cheng Niu and Dietrich Klakow"
+  authors: "Xiaoyu Shen, Ernie Chang, <u>Hui Su<u>, Cheng Niu and Dietrich Klakow"
   doc-url:
   conf: acl20.png
   url: ""

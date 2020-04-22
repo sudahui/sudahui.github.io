@@ -1,0 +1,32 @@
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: nexus-min.png
+  title: "NEXUS Network: Connecting the Preceding and the Following in Dialogue Generation"
+  authors: "<u>Hui Su<u>, Xiaoyu Shen, Wenjie Li, Dietrich Klakow"
+  doc-url:
+  conf: emnlp18.png
+  url: "https://arxiv.org/pdf/1810.00671"
+
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: blank.png
+  title: "Dialogue generation with GAN"
+  authors: "<u>Hui Su<u>, Xiaoyu Shen, Pengwei Hu, Wenjie Li, Yun Chen"
+  doc-url:
+  conf: aaai18.png
+  url: "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16508/16519"
+
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: wakesleep.png
+  title: "Improving variational encoder-decoders in dialogue generation"
+  authors: "Xiaoyu Shen, <u>Hui Su<u>, Shuzi Niu, Vera Demberg"
+  doc-url:
+  conf: aaai18.png
+  url: "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16402/16100"

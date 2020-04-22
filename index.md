@@ -9,7 +9,9 @@ layout: default
 
 Now, I'm an algorithm researcher at [WeChat AI](https://ai.weixin.qq.com/), Tencent. 
 
-Prior to joining Tencent, I recieved my master’s degree from the CAS Key Lab of Parallel Software and Scientific Computing Laboratory in Institute of Software , Chinese Academy of Sciences under the supervision of Prof. Shuzi NIU in July 2018. 
+Prior to joining Tencent, I recieved my master’s degree from the CAS Key Lab of Parallel Software and Scientific Computing in Institute of Software, Chinese Academy of Sciences under the supervision of Prof.GuoPing Long in July 2018. 
+
+Meanwhile, I visited The Hong Kong Polytechnic University as a research assistant under the supervision of Prof.[Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/) for half year in 2017-2018.
 
 Before that, I received my bachelor’s degree in Software Engineering and bachelor’s degree in Geoscience from China University of Geosciences, Wuhan in 2015.
 

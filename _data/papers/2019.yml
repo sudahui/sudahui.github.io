@@ -1,15 +1,14 @@
-
--
-  layout: paper
+- layout: paper
   paper-type: inproceedings
   selected: y
-  year: 2020
-  img: asq-min.png
-  title: "Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension"
-  authors: "Qian Li, Hui Su, CHENG NIU, Daling Wang, Zekang Li, Shi Feng"
+  year: 2019
+  img: imd-min.png
+  title: "Improving Multi-turn Dialogue Modelling with Utterance ReWriter"
+  authors: "<u>Hui Su<u>, Xiaoyu Shen, Rongzhi Zhang, Fei Sun, Pengwei Hu, Cheng Niu, Jie Zhou"
   doc-url:
-  conf: emnlp19.png
-  url: "https://www.aclweb.org/anthology/D19-5805.pdf"
+  conf: acl19.png
+  url: "https://arxiv.org/pdf/1906.07004"
+
 
 - layout: paper
   paper-type: inproceedings
@@ -17,8 +16,34 @@
   year: 2019
   img: ila-min.png
   title: "Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator"
-  authors: "Xiaoyu Shen, Yang Zhao, Hui Su, Dietrich Klakow"
+  authors: "Xiaoyu Shen, Yang Zhao, <u>Hui Su<u>, Dietrich Klakow"
   doc-url:
   conf: emnlp19.png
   url: "https://www.aclweb.org/anthology/D19-1390.pdf"
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2019
+  img: asq-min.png
+  title: "Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension"
+  authors: "Qian Li, <u>Hui Su<u>, CHENG NIU, Daling Wang, Zekang Li, Shi Feng"
+  doc-url:
+  conf: emnlp19.png
+  url: "https://www.aclweb.org/anthology/D19-5805.pdf"
+
+
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2019
+  img: saa-min.png
+  title: "Select and Attend: Towards Controllable Content Selection in Text Generation"
+  authors: "Xiaoyu Shen, Jun Suzuki, Kentaro Inui, <u>Hui Su<u>, Dietrich Klakow, Satoshi Sekine"
+  doc-url:
+  conf: emnlp19.png
+  url: "https://arxiv.org/pdf/1909.04453"
+
+
 

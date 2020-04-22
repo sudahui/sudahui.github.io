@@ -1,0 +1,21 @@
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  img: daily.png
+  title: "DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset"
+  authors: "Yanran Li\*, <u>Hui Su\*(equal contribution)<u>, Xiaoyu Shen, Wenjie Li, Ziqiang Cao, Shuzi Niu"
+  doc-url:
+  conf: ijcnlp17.png
+  url: "https://arxiv.org/pdf/1710.03957"
+
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  img: spvhred.png
+  title: "A conditional variational framework for dialog generation"
+  authors: "Xiaoyu Shen\*, <u>Hui Su\*(equal contribution)<u>, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa, Guoping Long"
+  doc-url:
+  conf: acl17.png
+  url: "https://arxiv.org/pdf/1705.00316  "
