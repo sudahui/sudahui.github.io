@@ -1,0 +1,24 @@
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2020
+  img: asq-min.png
+  title: "Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension"
+  authors: "Qian Li, Hui Su, CHENG NIU, Daling Wang, Zekang Li, Shi Feng"
+  doc-url:
+  conf: emnlp19.png
+  url: "https://www.aclweb.org/anthology/D19-5805.pdf"
+
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2019
+  img: ila-min.png
+  title: "Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator"
+  authors: "Xiaoyu Shen, Yang Zhao, Hui Su, Dietrich Klakow"
+  doc-url:
+  conf: emnlp19.png
+  url: "https://www.aclweb.org/anthology/D19-1390.pdf"
+
