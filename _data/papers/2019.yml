@@ -4,7 +4,7 @@
   year: 2019
   img: imd-min.png
   title: "Improving Multi-turn Dialogue Modelling with Utterance ReWriter"
-  authors: "<u>Hui Su<u>, Xiaoyu Shen, Rongzhi Zhang, Fei Sun, Pengwei Hu, Cheng Niu, Jie Zhou"
+  authors: "<u>Hui Su</u>, Xiaoyu Shen, Rongzhi Zhang, Fei Sun, Pengwei Hu, Cheng Niu, Jie Zhou"
   doc-url:
   conf: acl19.png
   url: "https://arxiv.org/pdf/1906.07004"
